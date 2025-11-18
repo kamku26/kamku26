@@ -1,14 +1,9 @@
 Hi 👋 My name is Kamu Kamaka
 ============================
-
-Web Developer
--------------
-
-I am currently in my second year of college, studying Computer Science at Oregon State University. I first learned C++ during my freshman year of college, but I have taken an interest in React development after my first internship.
+I am a 4th year Electrical and Computer Engineering Student Minoring in Computer Science at Oregon State University. I have experience with Python, React, C, and Assmebly.
 
 *   🌍  I'm based in Honolulu, Hawaii and Oregon
 *   ✉️  You can contact me at [kamukamaka@gmail.com](mailto:kamukamaka@gmail.com)
-*   🧠  I'm learning React, Javascript, C++, C### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
