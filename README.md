@@ -1,8 +1,17 @@
 Hi 👋 My name is Kamu Kamaka
 ============================
-I am a 4th year Electrical and Computer Engineering Student Minoring in Computer Science at Oregon State University. I have experience with Python, React, C, and Assmebly.
+I am an Electrical & Computer Engineering student at Oregon State University (Minor in Computer Science) graduating in 2027 focusing on power distribution, energy efficiency, and embedded controls and automation design.  
 
-*   🌍  I'm based in Honolulu, Hawaii and Oregon
+Experience Snapshot:
+Power & Energy Systems: Conducted commercial energy audits, optimized building management software (Alerton, Distech), and validated state infrastructure electrical systems with Hawaii DOT and Hawaii Energy Systems.  
+
+Hardware & Embedded: Designed custom PCBs in KiCad/Altium for underwater robotics, integrated multi-sensor microcontrollers (ESP32, ATmega), and developed autonomous environmental risk hardware.  
+
+Maintenance & Reliability: Diagnosed and resolved electrical, motor, and sensor failures in exercise equipment.
+
+Programming: Developed tests for website optimization, designed full stack website architecture with javascript, and programmed controller boards in C.
+
+*   🌍  I'm based in Honolulu, Hawaii and Portland, Oregon
 *   ✉️  You can contact me at [kamukamaka@gmail.com](mailto:kamukamaka@gmail.com)
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
